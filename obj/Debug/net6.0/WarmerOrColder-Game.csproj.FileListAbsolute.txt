@@ -1,0 +1,15 @@
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\bin\Debug\net6.0\WarmerOrColder-Game.exe
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\bin\Debug\net6.0\WarmerOrColder-Game.deps.json
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\bin\Debug\net6.0\WarmerOrColder-Game.runtimeconfig.json
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\bin\Debug\net6.0\WarmerOrColder-Game.dll
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\bin\Debug\net6.0\WarmerOrColder-Game.pdb
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\obj\Debug\net6.0\WarmerOrColder-Game.csproj.AssemblyReference.cache
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\obj\Debug\net6.0\WarmerOrColder-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\obj\Debug\net6.0\WarmerOrColder-Game.AssemblyInfoInputs.cache
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\obj\Debug\net6.0\WarmerOrColder-Game.AssemblyInfo.cs
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\obj\Debug\net6.0\WarmerOrColder-Game.csproj.CoreCompileInputs.cache
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\obj\Debug\net6.0\WarmerOrColder-Game.dll
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\obj\Debug\net6.0\refint\WarmerOrColder-Game.dll
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\obj\Debug\net6.0\WarmerOrColder-Game.pdb
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\obj\Debug\net6.0\WarmerOrColder-Game.genruntimeconfig.cache
+C:\Users\tjleg\Desktop\CSE210\Week5\Repository\WarmerOrColder-Game\obj\Debug\net6.0\ref\WarmerOrColder-Game.dll
